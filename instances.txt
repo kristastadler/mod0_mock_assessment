@@ -1,0 +1,41 @@
+Class: Boat
+Object: Speed Boat
+
+Attributes:
+paintColor: "Orange"
+name: "Zippy Princess"
+currentPassengers: 2
+maximumPassengers: 5
+totalFuelCapacity: 8
+currentFuelCapacity: 3
+engineStatus: false
+
+Methods:
+calculateRemainingGas 3 / 8 = .375
+changeColor = "Lime Green"
+refillGas 8 - 3 = 5; refills 5
+inviteFriends 5 - 2 = 3
+changeName = "Speed Racer"
+startEngine = true
+stopEngine = false
+
+Class: Boat
+Object: House Boat
+
+Attributes:
+paintColor: "White"
+name: "Born to Float"
+currentPassengers: 12
+maximumPassengers: 12
+totalFuelCapacity: 15
+currentFuelCapacity: 9
+engineStatus: true
+
+Methods:
+calculateRemainingGas 9 / 15 = .6
+changeColor = "Silver"
+refillGas 15 - 9 = 6; refills 6
+inviteFriends 12 - 12 = 0
+changeName = "Floating on Air"
+startEngine = true
+stopEngine = false
