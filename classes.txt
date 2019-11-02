@@ -1,0 +1,19 @@
+Class: Boat
+
+Attributes:
+paintColor (string)
+name (string)
+currentPassengers (integer)
+maximumPassengers (integer)
+totalFuelCapacity (integer)
+currentFuelCapacity (integer)
+engineStatus (boolean)
+
+Methods:
+calculateRemainingGas (divides currentFuelCapacity by totalFuelCapacity)
+changeColor (changes the paintColor attribute)
+refillGas (subtracts currentFuelCapacity from totalFuelCapacity and then refills that amount)
+inviteFriends (subtracts currentPassengers from maximumPassengers)
+changeName (changes the name attribute)
+startEngine (changes engineStatus to true)
+stopEngine (changes engineStatus to false)
