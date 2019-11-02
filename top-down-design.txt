@@ -1,0 +1,27 @@
+1 Collect Laundry
+  1.1 Get Laundry Basket
+    1.1.1 Walk to laundry room
+    1.1.2 Pick up laundry basket
+  1.2 Collect Laundry from Bathroom
+    1.2.1 Walk to bathroom
+    1.2.2 Set laundry basket on the floor
+    1.2.3 Open laundry hamper
+    1.2.4 Pick up dirty laundry from hamper
+    1.2.5 Add dirty laundry to laundry basket
+    1.2.6 Pick up laundry basket
+  1.3 Collect Laundry from Bedroom
+    1.3.1 Walk to Bedroom
+    1.3.2 Set laundry basket on the floor
+    1.3.3 Open laundry hamper
+    1.3.4 Pick up dirty laundry from hamper
+    1.3.5 Add dirty laundry to laundry basket
+    1.3.6 Pick up laundry basket
+  1.4 Carry Laundry Basket to Laundry Room
+    1.4.1 Pick up laundry basket
+    1.4.2 Walk to laundry room
+    1.4.3 Set laundry basket on the floor
+2 Sort Laundry
+3 Wash Laundry
+4 Dry Laundry
+5 Fold Laundry
+6 Put Laundry Away
